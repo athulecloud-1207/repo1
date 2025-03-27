@@ -4,6 +4,12 @@
             "branch": "main",
             "email": ["asunil@ecloudcontrrol.com"],
             "group": "data-eng"
-        }
+        },
+         "https://github.com/Akshaidevopscc/dags": {
+            "path": "/appz/home/airflow/dags/dags",
+            "branch": "main",
+            "email": ["asunil@ecloudcontrol.com"],
+            "group": "data-eng"
+        }       
 }
         
