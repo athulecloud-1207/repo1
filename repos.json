@@ -6,7 +6,7 @@
             "group": "data-eng"
         },
          "https://github.com/athulecloud-1207/dags": {
-            "path": "/appz/home/airflow/dags",
+            "path": "/appz/home/airflow/dags/airflow_dags",
             "branch": "main",
             "email": ["asunil@ecloudcontrol.com"],
             "group": "data-eng"
