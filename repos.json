@@ -1,14 +1,8 @@
 {
-        "https://github.com/Akshaidevopscc/jaffle_shop": {
+        "https://github.com/athulecloud-1207/jaffle_shop": {
             "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
             "branch": "main",
-            "email": ["asurendran@ecloudcontrol.com"],
+            "email": ["asunil@ecloudcontrrol.com"],
             "group": "data-eng"
-        },
-        "https://github.com/Akshaidevopscc/airflow_dags": {
-            "path": "/appz/home/airflow/dags/airflow_dags",
-            "branch": "main",
-            "email": ["asurendran@ecloudcontrol.com"],
-            "group": "data-eng"
-        }       
-}
+        }}
+        
