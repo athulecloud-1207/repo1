@@ -5,7 +5,7 @@
             "email": ["asunil@ecloudcontrrol.com"],
             "group": "data-eng"
         },
-         "https://github.com/Akshaidevopscc/dags": {
+         "https://github.com/athulecloud-1207/dags": {
             "path": "/appz/home/airflow/dags",
             "branch": "main",
             "email": ["asunil@ecloudcontrol.com"],
